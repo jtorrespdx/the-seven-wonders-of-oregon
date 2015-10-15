@@ -1,0 +1,21 @@
+#site-name a {
+  color: #245454;
+  font-style: italic;
+  font-family: Georgia,Serif;
+}
+
+li a {
+  background-color: transparent;
+  color: #1c1c1c;
+  background-repeat: no-repeat;
+  font-family: Georgia,Serif;
+}
+
+#content #content-inside {
+  background-color: #ffffff;
+}
+
+h2 a {
+  color: #122b2b;
+}
+
